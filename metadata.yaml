@@ -1,9 +1,13 @@
 _repo: The-Lion-s-Whelp-A-Story-of-Cromwell-s-Time_50978
+_version: 0.1.0
 contributor:
   illustrator:
     agent_name: Zeigler, Lee Woodward
     gutenberg_agent_id: '46177'
     url: http://www.gutenberg.org/2009/agents/46177
+covers:
+- cover_type: archival
+  image_path: 50978-h/images/img-cover.jpg
 creator:
   author:
     agent_name: Barr, Amelia E.
@@ -14,6 +18,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2199
     wikipedia: http://en.wikipedia.org/wiki/Amelia_Edith_Huddleston_Barr
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50978#The-Lion-s-Whelp-A-Story-of-Cromwell-s-Time
 gutenberg_issued: '2016-01-19'
 gutenberg_type: Text
 identifiers:
